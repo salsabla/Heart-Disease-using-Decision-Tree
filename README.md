@@ -60,3 +60,18 @@ The dataset contains 303 patient records with 14 variables, including:
 | Specificity | 76.92% |
 | Precision | 70.00% |
 | Kappa | 0.3808 |
+
+### Decision Tree Plot
+<img width="1884" height="768" alt="image" src="https://github.com/user-attachments/assets/45031b89-eb44-421f-b1c0-e14f26eddbb7" />
+
+### Training Confusion Matrix
+<img width="996" height="768" alt="image" src="https://github.com/user-attachments/assets/9ef4f754-ee8b-429e-9874-d899b86bee4c" />
+
+### Testing Confusion Matrix
+<img width="996" height="768" alt="image" src="https://github.com/user-attachments/assets/eaee1f29-cd45-44c1-bfdf-7038dab31ce8" />
+
+### Training Metrics Histogram
+<img width="996" height="768" alt="image" src="https://github.com/user-attachments/assets/e9860da7-9cb5-46f8-802a-23bff2962c6c" />
+
+### Testing Metrics Histogram
+<img width="996" height="768" alt="image" src="https://github.com/user-attachments/assets/cd6b1000-cd14-48e6-9717-7c9258103d98" />
