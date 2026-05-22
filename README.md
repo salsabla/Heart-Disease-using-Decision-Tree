@@ -75,3 +75,8 @@ The dataset contains 303 patient records with 14 variables, including:
 
 ### Testing Metrics Histogram
 <img width="996" height="768" alt="image" src="https://github.com/user-attachments/assets/cd6b1000-cd14-48e6-9717-7c9258103d98" />
+
+# Key Insight
+- The Decision Tree model achieved strong performance on training data (86.22% accuracy) but lower performance on testing data (69.39% accuracy), indicating possible overfitting.
+- Variables such as chest pain type (cp), maximum heart rate (thalachh), and exercise-induced angina (exng) showed important contributions in the classification process.
+- The project demonstrates how machine learning can be applied to support early heart disease detection using patient medical attributes.
